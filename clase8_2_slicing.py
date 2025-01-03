@@ -1,3 +1,8 @@
+#cuando copias una lista se copia
+# la informacion pero tambien el espacio 
+# en memoria en el que se guarda la variable
+# El Slicing es para solo copiar la info pero
+# sin apuntar al mismo espacio de memoria
 # Lista de ejemplo
 lista = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 

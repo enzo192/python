@@ -5,6 +5,7 @@ to_do = ["Dirigirnos al hotel",
          "Volver al hotel"]
 print(to_do)
 
+#lista de numeros en int y string
 numbers = [1,2,3,4, "cinco"]
 print(type(numbers))
 
