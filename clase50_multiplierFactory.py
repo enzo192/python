@@ -14,4 +14,4 @@ class MultiplierFactory:
 multiplier = MultiplierFactory(5)
 
 result = multiplier(10)
-print(result)
+print(result)  # Output: 50
